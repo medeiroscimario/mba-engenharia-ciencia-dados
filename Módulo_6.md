@@ -1,7 +1,6 @@
 ## Módulo 6 | Data as a service
 
 - Maior acessibilidade
-    - 
 
 - Custo-benefício
     - Menor custo com manutenção e gerenciamento de dados.
