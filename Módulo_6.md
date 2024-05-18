@@ -32,3 +32,22 @@
 - Agilidade e flexibilidade
     - Adicionam novos conjuntos de dados, altera os requisitos de processamento ou análise e integrar-se a novas ferramentas ou plataformas conforme necessário.
     - Exemplo de uso: Snowflake Data Cloud, para armazenamento e analise de dados de vendas.
+
+- Segurança e privacidade
+
+    - Integração de dados
+
+    - Implementação de segurança
+    
+    - Testes e validação
+        - O ambiente de produção não pode ser alterado. Antes deve ser testado a aplicação.
+
+    - Implantação e disponibilização
+        - Após os testes, é implantado e disponibilizados para uso pelos usuários finais.
+
+    - Monitoramento e manutenção
+        - Após a implantação, os serviços de dados são monitorados continuamente para garantir seu desempenho, disponibilidade e segurança.
+
+    - Otimização contínua
+        - Provisionamento e gerenciamente de serviços de dados é um ciclo contínuo.
+        - Atualização quando necessária.
