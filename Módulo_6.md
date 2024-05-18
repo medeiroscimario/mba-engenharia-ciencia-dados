@@ -33,5 +33,3 @@
 - Agilidade e flexibilidade
     - Adicionam novos conjuntos de dados, altera os requisitos de processamento ou análise e integrar-se a novas ferramentas ou plataformas conforme necessário.
     - Exemplo de uso: Snowflake Data Cloud, para armazenamento e analise de dados de vendas.
-
-- 
