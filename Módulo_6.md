@@ -1,4 +1,4 @@
-## Data as a service
+## Módulo 6 | Data as a service
 
 - Maior acessibilidade
     - 
@@ -21,4 +21,12 @@
     - Gerenciamento e manutenção
     - Custos e flexibilidade
 
-- 
+- Benefícios para empresa
+    - Acesso fácil a conjuntos de dados
+        - API simples e interface web
+    - Exemplo de uso: empresas de entrega que utilizam API do Google Maps Platform.
+
+- Eliminação de custos de infraestrutura
+    - Sem custos com infraestrutura para armazenamento.
+    - Exmplo de uso: empresa de comércio eletrônico usa o Amazon Redshift para armazenar e analisar grandes volumes de dados de transações de clientes, histórico de compras e comportamento de nevagação na web.
+    
