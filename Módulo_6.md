@@ -29,4 +29,9 @@
 - Eliminação de custos de infraestrutura
     - Sem custos com infraestrutura para armazenamento.
     - Exmplo de uso: empresa de comércio eletrônico usa o Amazon Redshift para armazenar e analisar grandes volumes de dados de transações de clientes, histórico de compras e comportamento de nevagação na web.
-    
+
+- Agilidade e flexibilidade
+    - Adicionam novos conjuntos de dados, altera os requisitos de processamento ou análise e integrar-se a novas ferramentas ou plataformas conforme necessário.
+    - Exemplo de uso: Snowflake Data Cloud, para armazenamento e analise de dados de vendas.
+
+- 
